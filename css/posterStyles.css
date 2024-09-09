@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Ewert);
+@import url(https://fonts.googleapis.com/css?family=Ultra);
+body{
+    background-color: #f0f0f0;;
+    background-image: url('https://shorturl.at/5Jg8b');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+
+.poster{
+    text-align: center;
+    width: 488px;
+    height: 640px;
+    background-image: url('https://shorturl.at/njP1X');
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 18px 27px rgba(0,0,0,0);
+
+}
+#mugshot{
+    width: 300px;
+    height: 325px;
+    border: 2px;
+    border-color: #291200;
+    padding: 10px;
+}
+h1{
+    font-family:'Ewert';
+    color: #291200;
+    font-size: 44pt;
+    font-style: normal;
+    margin: 0%;
+}
+.subheadding{
+
+}
+.name{
+
+}
+.description{
+
+}
+#price{
+
+}
